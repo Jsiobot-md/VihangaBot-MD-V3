@@ -1,7 +1,7 @@
 {
     "name": "VIHANA MD",
     "description": "whatsapp md bot build with nodejs",
-    "repository": "https://github.com/vihangayt0/VihangaBot-MD-V2",
+    "repository": "wa.me/923080613785-MD-V2",
     "logo": "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "env": {
@@ -32,13 +32,13 @@
                                 "ANTIVIEWONCE" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
        
                                         "ANTILINK" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
         
 "GROUP_ONLY_MSG" :{
@@ -49,14 +49,14 @@
         
         "WELCOME_MSG" :{
     "description" : "TYPE WELCOME MSG",
-    "required" : true,
+    "required" : false,
   "value" : "*HELLO WELCOME TO OUR GROUP*"
     },
   
                 "BYE_MSG" :{
     "description" : "TYPE BYE MSG",
-    "required" : true,
-  "value" : "*BYE BRO*"
+    "required" : false,
+  "value" : "*BYE tata*"
     },
         
         "ALIVE_MSG" :{
@@ -98,55 +98,55 @@
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "923080613785"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "923080613785"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "923080613785"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
+  "value" : "ĎÊvÌĹ 𝐌𝐃"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "Ďèvìĺ"
     },
       
 "GROUP_LINK" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "wa.me/923080613785"
 },
       
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "wa.me/923080613785"
 },
     
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "03080613785"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "*BY wa.me/923080613785*"
 },
     
 "IMG_URL" :{
@@ -167,10 +167,10 @@
         "url": "heroku/nodejs"
       },
       {
-        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        "url": "wa.me/923080613785"
       },
       {
-        "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+        "url": wa.me/923080613785"
       }
     ],
      "formation": {
